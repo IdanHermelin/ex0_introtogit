@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Yellow 
+Favorite food: Shnitzel
+Favorite musician/band: Idan Richel 
+Favorite movie: Star wars
+Requested grade in the course: 97 
